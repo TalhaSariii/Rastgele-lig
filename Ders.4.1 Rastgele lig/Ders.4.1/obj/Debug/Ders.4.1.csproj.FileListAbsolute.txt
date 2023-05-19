@@ -1,0 +1,27 @@
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\bin\Debug\Ders.4.1.exe.config
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\bin\Debug\Ders.4.1.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\bin\Debug\Ders.4.1.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders.4.1.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders.4.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders._4._1.Form1.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders._4._1.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders.4.1.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders.4.1.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders.4.1.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1\Ders.4.1\obj\Debug\Ders.4.1.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\bin\Debug\Ders.4.1.exe.config
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\bin\Debug\Ders.4.1.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\bin\Debug\Ders.4.1.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders.4.1.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders.4.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders._4._1.Form1.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders._4._1.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders.4.1.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders.4.1.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders.4.1.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders.4.1.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.4.1 Rastgele lig\Ders.4.1\obj\Debug\Ders.4.1.csproj.ResolveComReference.cache
